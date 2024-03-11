@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'DMIT2504 Assignment 3',
       theme: buildTheme(),
-      home: HomeView(),
+      home: const HomeView(),
     );
   }
 }
